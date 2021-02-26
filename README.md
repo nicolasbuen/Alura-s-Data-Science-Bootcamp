@@ -30,7 +30,7 @@ A partir do [módulo 2](https://github.com/nicolasbuen/Alura-s-Data-Science-Boot
    * Esse módulo dá início ao desenvolvimento de um projeto prático de Data Science, desde o entendimento do problema, tratamento e análise dos dados até a a solução da task usando **Machine Learning**. Aqui utilizamos um *dataset* disponibilizado pelo hospital Sírio Libanês no [Kaggle](https://www.kaggle.com/Sírio-Libanes/covid19) sobre COVID-19.
 <br>
 
-* **Módulo 06: Modelos, métricas e validações em Machine Learning**[(https://github.com/nicolasbuen/Alura-s-Data-Science-Bootcamp/blob/master/Aula%20M%C3%B3dulo%206.ipynb)
+* [**Módulo 06: Modelos, métricas e validações em Machine Learning**](https://github.com/nicolasbuen/Alura-s-Data-Science-Bootcamp/blob/master/Aula%20M%C3%B3dulo%206.ipynb)
    * Ainda utilizando um *dataset* disponibilizado pelo hospital Sírio Libanês no [Kaggle](https://www.kaggle.com/Sírio-Libanes/covid19), nesse módulo aplicamos todo nosso conhecimento para finalizar o pipeline do modelo de Machine Learning, testando algoritmos mais avançados, novas métricas de avaliação e formas mais adequadas de validação.
 
 
